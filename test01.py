@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 x = int(input())
 
 if x % 2 == 0:
@@ -12,4 +11,3 @@ elif x < 0:
     print("negative number")
 else:
     print("zero")
->>>>>>> sign
